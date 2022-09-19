@@ -1,1 +1,2 @@
-# ReactJs-Training
+# Training
+TypeScript 
